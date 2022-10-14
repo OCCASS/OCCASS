@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a young python and js develper.
+I'm a young `python` and `js` develper.
 
 Mine repositories to use:<br>
 \- <a href="https://github.com/OCCCAS/aiogram-bot-template">aiogram-bot-template</a><br>
