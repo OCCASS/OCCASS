@@ -1,13 +1,12 @@
-### Hi there 👋
+### Привет 👋
 
-I'm a young `python` and `js` develper
+Меня зовут Тимур, я занимаюсь FullStack-разработкой, разработкой телеграм ботов. Я разрабатываю на `python`, `typescript` и имею опыт с `golang`.
 
-🤩 Project templates:<br>
-\- <a href="https://github.com/OCCCAS/aiogram-bot-template">aiogram-bot-template</a><br>
-\- <a href="https://github.com/OCCCAS/python-project-template">python-project-template</a>
+- 💻 Есть свой сервис [Hopguard](https://t.me/hopguard_bot?start=utm_origin=github-utm_medium=welcomepage)
+- 💡 Есть своя бибилиотека для тестирования телеграм ботов на aiogram (к сожалению с выходом новой версии, она стала неактуальна). [Ссылка на нее](https://github.com/OCCCAS/aiogram_tests)
+- 🌱 Участвую в хакатонах и имею опыт работы с команде
 
-🤩 Mine Python libraries:<br>
-\- <a href="https://github.com/OCCCAS/aiogram_tests">aiogram_tests (for aiogram >= 3.0.0b5)</a><br>
-\- <a href="https://github.com/OCCCAS/aiogram_unittests">aiogram_unittests (for aiogram >= 2.22.*)</a><br>
+### Контакты
 
-💌 Email: `pavlov.timur556@yandex.ru`
+Email: `pavlov.timur556@yandex.ru`
+Telegram: `https://t.me/OCCASS`
