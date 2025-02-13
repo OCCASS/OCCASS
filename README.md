@@ -8,5 +8,5 @@
 
 ### Контакты
 
-Email: `pavlov.timur556@yandex.ru`
-Telegram: `https://t.me/OCCASS`
+- Email: `pavlov.timur556@yandex.ru`
+- Telegram: `https://t.me/OCCASS`
