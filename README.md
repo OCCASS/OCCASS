@@ -1,12 +1,22 @@
-### Hi there 👋  
+# 👋 Timur Pavlov
 
-My name is Timur. I'm a FullStack developer and Telegram bot developer. I work with `Python`, `TypeScript`, and have experience with `Go`.  
+Backend Engineer focused on Python, FastAPI/Django, PostgreSQL, async processing and AI-powered backend systems.
 
-- 💻 I run my own service — [Hopguard](https://t.me/hopguard_bot?start=utm_origin=github-utm_medium=welcomepage)  
-- 💡 I built a library for testing Telegram bots with aiogram (unfortunately, it became outdated after the latest version release). [Here’s the link](https://github.com/OCCCAS/aiogram_tests)  
-- 🌱 I participate in hackathons and have experience working in a team  
+I build API-driven products, internal automation tools and production-like backend infrastructure with observability, task queues and LLM integrations.
 
-### Contacts  
+Currently interested in:
+- backend engineering
+- distributed systems
+- AI infrastructure
+- observability
+- developer tools
 
-- Email: `tvpavlov@edu.hse.ru`  
-- Telegram: [https://t.me/OCCASS](https://t.me/OCCASS)
+## Featured work
+
+- HR Automation Backend — Django, FastAPI, Celery, PostgreSQL, Prometheus/Grafana
+- VPN-as-a-Service Platform — FastAPI, PostgreSQL, monitoring, subscription logic
+- aiogram_tests — open-source testing library for aiogram bots, 70+ GitHub stars
+
+## Tech stack
+
+Python · FastAPI · Django · PostgreSQL · Redis · Celery · Docker · Linux · Prometheus · Grafana · Go · TypeScript
