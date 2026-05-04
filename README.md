@@ -11,12 +11,6 @@ Currently interested in:
 - observability
 - developer tools
 
-## Featured work
-
-- HR Automation Backend — Django, FastAPI, Celery, PostgreSQL, Prometheus/Grafana
-- VPN-as-a-Service Platform — FastAPI, PostgreSQL, monitoring, subscription logic
-- aiogram_tests — open-source testing library for aiogram bots, 70+ GitHub stars
-
 ## Tech stack
 
 Python · FastAPI · Django · PostgreSQL · Redis · Celery · Docker · Linux · Prometheus · Grafana · Go · TypeScript
